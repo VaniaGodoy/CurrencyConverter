@@ -1,4 +1,9 @@
-# Currency Converter App
+
+# Demonstração
+
+![TELA PRINCIPAL](demo.png)
+
+## Currency Converter App
 
 Aplicativo Android desenvolvido em Kotlin para conversão de moedas em tempo real utilizando API pública.
 
@@ -56,10 +61,6 @@ Resultado:
 ```
 
 ---
-
-## 📸 Demonstração
-
-[TELA PRINCIPAL]!(demo.png)
 
 ## Desenvolvido por
 
